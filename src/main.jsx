@@ -51,7 +51,7 @@ const router = createBrowserRouter([
       },
       {
         path: '*',
-        element: <div className='text-center mt-5 text-bg-danger p-5 ' style={{ height: '300px', alignItems: 'center' }}>
+        element: <div className='text-center m-5  text-bg-warning p-5'>
           <h1 className='p-5 '>404 Not Found</h1>
         </div>
       },
