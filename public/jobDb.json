@@ -124,6 +124,23 @@
         "phone": "123-456-7890",
         "email": "software-engineer@amazon.com"
         }
+        },
+        {
+        "id": 8,
+        "company_logo": "https://seeklogo.com/images/F/facebook-logo-CE3032F01E-seeklogo.com.png",
+        "job_title": "Data Scientist",
+        "company_name": "Facebook",
+        "remote_or_onsite": "Onsite",
+        "location": "Menlo Park, CA",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "$120,000 - $150,000",
+        "job_description": "At Facebook, we are looking for a talented data scientist to join our team. As a data scientist, you will work on projects that impact millions of people worldwide. You will collaborate with cross-functional teams to analyze data, develop models, and make data-driven decisions. We are looking for someone who is passionate about data, has excellent analytical skills, and can communicate complex data insights to both technical and non-technical audiences.",
+        "job_responsibility": "As a Data Scientist at Facebook, your main responsibilities will include:\n- Analyzing and interpreting complex data sets\n- Developing statistical models and machine learning algorithms\n- Collaborating with cross-functional teams to identify and solve business problems\n- Communicating complex data insights to both technical and non-technical audiences\n- Ensuring data accuracy, completeness, and integrity\n- Staying up-to-date with emerging trends and technologies in data science",
+        "educational_requirements": "Bachelor's degree in Statistics, Mathematics, Computer Science, or related field",
+        "experiences": "Minimum 5 years of experience in data science",
+        "contact_information": {
+        "phone": "123-456-7890",
+        "email": "data-scientist@facebook.com"
         }
-        
+        }
 ]
