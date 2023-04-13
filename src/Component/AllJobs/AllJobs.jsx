@@ -21,17 +21,15 @@ const AllJobs = ({ cart }) => {
                         <h3 className='mb-1'>{job_title}</h3>
                         <h5 className='mb-2'>{company_name}</h5>
                         <div className='d-flex mb-2'>
-                            <button className='bg-white  me-4 px-4 p-2 fs-6 rounded-1 fw-bold  ' style={{
-                                color: "#7E90FE ",
-                                border: '1px solid #7E90FE'
+                        <button className='btn btn-outline-primary me-4 px-3 py-2 fs-6 rounded-1 fw-bold' style={{
+        color: "#7E90FE",
+    }}>
+    {remote_or_onsite}
+</button>
 
-
-                            }}>{remote_or_onsite}</button>
-                            <button className='bg-white px-4  me-4 p-2 fs-6 rounded-1 fw-bold  ' style={{
-                                color: "#7E90FE ",
-                                border: '1px solid #7E90FE'
-
-                            }}>{fulltime_or_parttime}</button>
+                            <button className='btn btn-outline-primary me-4 px-3 py-2 fs-6 rounded-1 fw-bold' style={{
+        color: "#7E90FE",
+    }}>{fulltime_or_parttime}</button>
                         </div>
                         <div className='fs-6 lh-lg' style={{color: '#757575'}}> 
                 <FontAwesomeIcon icon= {faLocationDot} />        {location}                                                                         <FontAwesomeIcon icon={faDollarSign} />      Salary: {salary}   

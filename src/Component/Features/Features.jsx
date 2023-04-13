@@ -40,9 +40,9 @@ const Features = ({ feature }) => {
                 <FontAwesomeIcon icon= {faLocationDot} />        {location}                                                                         <FontAwesomeIcon icon={faDollarSign} />      Salary: {salary}   
                 </div>
 
-                <button onClick={() => navigate(`jobDetails/${id}`)} className='px py-2 fs-6 border-0 rounded-1 text-white fw-bold w-25 ' style={{
-                    background: ` linear-gradient(90deg, #7E90FE 0%, #9873FF 100%)`
-                }}>View Details</button>
+                <button onClick={() => navigate(`jobDetails/${id}`)}  className='btn btn-primary btn-sm w-50 fw-bold' style={{
+    background: `linear-gradient(90deg, #7E90FE 0%, #9873FF 100%)`
+}} >View Details</button>
 
             </Card>
 
