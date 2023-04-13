@@ -1,6 +1,6 @@
 Getwork 
 
-website link:--   https://keen-conkies-3965aa.netlify.app/
+website link:--   
 
 1) In the home page there is a banner showing including navbar
 2) There is a Job Category section where data are shown from CategoryData.json file
@@ -12,6 +12,8 @@ website link:--   https://keen-conkies-3965aa.netlify.app/
 8) if you click on applied jobs button on the navbar the data saved on the local storage will show in a card style
 9) In the navbar there is a statistics button on the navbar which will take you to another page showing a pie chart about assignment marks and total percentage.
 10) At last there is a blog button in the navbar which will show a accordion about 4 questions.
+11) There is 404 page path opened. if any wrong url inputted the custom 404 page will show there.
+12) In 404 page there is a button added go back that will take back the user in the previous page.
 
 
 
