@@ -106,5 +106,24 @@
             "phone": "222-222-2222",
             "email": "softwareengineerjobs@aws.com"
         }
-    }
+    },
+    {
+        "id": 7,
+        "company_logo": "https://seeklogo.com/images/A/amazon-logo-3F973DA9CA-seeklogo.com.png",
+        "job_title": "Software Engineer",
+        "company_name": "Amazon",
+        "remote_or_onsite": "Remote",
+        "location": "London, UK",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "$90,000 - $110,000",
+        "job_description": "As a Software Engineer at Amazon, you will work on exciting projects that directly impact millions of customers. You will collaborate with cross-functional teams to build and maintain high-quality software applications, while ensuring they are scalable, reliable, and efficient. We are looking for someone who is passionate about building robust and scalable systems, and who constantly strives to learn and improve.",
+        "job_responsibility": "Responsibilities include:\n- Design and develop software applications\n- Write clean, efficient, and maintainable code\n- Ensure the technical feasibility of software designs\n- Optimize application for maximum speed and scalability\n- Collaborate with other team members and stakeholders\n- Stay up-to-date with emerging trends and technologies in software engineering",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field",
+        "experiences": "Minimum 2 years of experience in software engineering",
+        "contact_information": {
+        "phone": "123-456-7890",
+        "email": "software-engineer@amazon.com"
+        }
+        }
+        
 ]
