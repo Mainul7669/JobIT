@@ -1,6 +1,6 @@
 Getwork 
 
-website link:--   
+website link:--  https://keen-conkies-3965aa.netlify.app/  
 
 1) In the home page there is a banner showing including navbar
 2) There is a Job Category section where data are shown from CategoryData.json file
